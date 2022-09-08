@@ -1,0 +1,51 @@
+div.container1{
+    border: 10px;
+   text-align: center;
+  width:800px ;
+  padding-bottom: 10px;
+
+}
+div.hero{
+    background-color: #f4f4f4;
+    align-items: center;
+}
+li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color:#707070;
+}
+p{
+    color: #707070;
+}
+.header1{
+    align-items: center;
+}
+h1{
+    color: #DB0038;
+}
+h2{
+    color: #3998A3;
+}
+h3{
+    color: #474747;
+}
+img{
+    align-items: center;
+}
+.satrs{
+    color: #F4B400;
+    size-adjust: 25px;
+}
+footer{
+    text-align: center;
+}
+div.container{
+    font-family: 'Happy Monkey', cursive;
+}
+div.rating{
+    text-align: center;
+}
+p.font{
+color: #707070;
+text-align: center;
+}
